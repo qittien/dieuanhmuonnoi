@@ -1,0 +1,5 @@
+@echo off
+echo Cloning the repository from GitHub...
+git clone https://github.com/qittien/dieu-ma-qt-muon-noi.git
+echo Done! Repository has been cloned.
+pause
